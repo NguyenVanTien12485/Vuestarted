@@ -16,3 +16,11 @@ features:
     details: List all changelog of web application. Okxe App, Admin App and blog Website
 footer: MIT Licensed | Copyright © 2021 - OKXE
 ---
+
+---
+
+```js
+console.log("Hello, OKXE Frontend team");
+```
+
+---
