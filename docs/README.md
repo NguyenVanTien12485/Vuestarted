@@ -1,12 +1,15 @@
 ---
 home: true
-heroImage: /images/okxe_Hiring.jpg
+heroImage: /images/OKXE-banner.jpg
 heroText: Frontend-Deverloper
-tagline: I want to learn VuePress
+tagline: Static site for Front-End Team
 actions:
   - text: Get Started
     link: /guide/
     type: primary
+  - text: My Team
+    link: https://www.okxe.vn/about
+    type: secondary
 features:
   - title: Conventions & Rules
     details: All conventions and rules will be list here

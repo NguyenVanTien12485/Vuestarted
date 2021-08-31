@@ -1,10 +1,10 @@
 module.exports = {
-  head: [['link', { rel: 'icon', href: '/images/farvicon.jpg' }]],
+  head: [['link', { rel: 'icon', href: '/images/apple-touch-icon.png' }]],
   lang: "en-US",
   title: "Hello, OKXE.VN!",
   description: "I want to learn VuePress",
   themeConfig: {
-    logo: "/images/farvicon.jpg",
+    logo: "/images/apple-touch-icon.png",
     navbar: [
       { text: "Home",
        link: "/" },
