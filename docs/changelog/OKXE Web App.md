@@ -42,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     Keep a Changelog
     Keep a Changelog (2 kB)
     [Keepachangelog](https://keepachangelog.com/en/1.0.0/)
-    ![Image](/public/images/keepachangelog.png)
+    ![Image](/images/keepachangelog.png)
 
 Semantic Versioning
 [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
